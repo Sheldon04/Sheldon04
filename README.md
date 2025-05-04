@@ -7,7 +7,7 @@
 ### 🤺 About Me
 
 
-<p>&emsp;&emsp;Hi! I'm Sheldon，a programmer who enjoys poetry.</p>
+<p>&emsp;&emsp;Hi! I'm Senmao，a programmer who enjoys poetry.</p>
 <p>&emsp;&emsp;喜欢运动，喜欢诗词~</p>
 
 
