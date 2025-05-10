@@ -31,9 +31,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://github.com/Sheldon04' target='_blank'>I have been actively seeking for a PhD position in the interdisciplinary field of computational biology and deep learning </a> 🔥🔥🔥🔥🔥- 2025
+* <a href='https://github.com/Sheldon04' target='_blank'>I have been actively seeking a PhD position in the interdisciplinary field of computational biology and deep learning </a> 🔥🔥🔥🔥🔥- 2025
 * <a href='https://www.youtube.com/watch?v=-5r1SGK5GI0' target='_blank'>My favorite basketball player, Lin Wei, has joined LiftSports and embarked on an overseas journey.</a> 🌟🌟🌟🌟🌟- 2025-05
-* <a href='https://zh.wikipedia.org/wiki/%E6%B3%A5%E6%B2%B3%E6%B9%BE%E9%81%97%E5%9D%80' target='_blank'>Participate in excavation and assist in data analysis at the Nihewan site。 Interesting experience！</a> 🌟🌟🌟🌟🌟 - 2024-9
+* <a href='https://zh.wikipedia.org/wiki/%E6%B3%A5%E6%B2%B3%E6%B9%BE%E9%81%97%E5%9D%80' target='_blank'>Participate in excavation and assist in data analysis at the Nihewan site. Interesting experience！</a> 🌟🌟🌟🌟🌟 - 2024-9
 <!-- END_SECTION:douban -->
 
 </td></tr>
