@@ -8,7 +8,7 @@
 
 
 <p>&emsp;&emsp;Hi! I'm Senmao，a programmer who enjoys poetry.</p>
-<p>&emsp;&emsp;喜欢运动，喜欢诗词~</p>
+<p>&emsp;&emsp;I enjoy exploring the unknown mysteries of lives.</p>
 
 
 </td></tr>
@@ -31,9 +31,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://www.sohu.com/a/713107066_121747516/' target='_blank'>周琦加盟广东！</a> 🔥🔥🔥🔥🔥- 2023-08-19
-* <a href='https://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> 🌟🌟🌟🌟🌟- 2023-07-09
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>肖申克的救赎</a> 🌟🌟🌟🌟🌟 - 2023-02-07
+* <a href='https://www.sohu.com/a/713107066_121747516/' target='_blank'>I have been actively seeking for a PhD position in the interdisciplinary field of computational biology and deep learning<！/a> 🔥🔥🔥🔥🔥- 2025
+* <a href='https://movie.douban.com/subject/35765480/' target='_blank'>My favorite basketball player, Lin Wei, has joined LiftSports and embarked on an overseas journey.</a> 🌟🌟🌟🌟🌟- 2025-05
+* <a href='https://zh.wikipedia.org/wiki/%E6%B3%A5%E6%B2%B3%E6%B9%BE%E9%81%97%E5%9D%80' target='_blank'>Participate in excavation and assist in data analysis at the Nihewan site。 Interesting experience！</a> 🌟🌟🌟🌟🌟 - 2024-9
 <!-- END_SECTION:douban -->
 
 </td></tr>
